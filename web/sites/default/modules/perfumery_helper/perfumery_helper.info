@@ -1,0 +1,5 @@
+name = perfumery_helper
+description = Perfumery Custom Helper Module.
+core = 7.x
+
+files[] = perfumery_helper.module

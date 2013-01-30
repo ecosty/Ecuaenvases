@@ -1,0 +1,8 @@
+<?php
+
+  require_once drupal_get_path('module', 'perfumery_helper') . '/alters.inc';
+  require_once drupal_get_path('module', 'perfumery_helper') . '/core.inc';
+  
+  function perfumery_helper_init() {
+
+  }
